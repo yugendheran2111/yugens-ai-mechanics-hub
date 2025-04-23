@@ -136,14 +136,14 @@ const Contact = () => {
               <div className="space-y-4">
                 <div>
                   <h3 className="font-semibold">Email</h3>
-                  <a href="mailto:example@example.com" className="text-blue-600 hover:underline">
-                    example@example.com
+                  <a href="mailto:yugendheran@gmail.com" className="text-blue-600 hover:underline">
+                    yugendheran@gmail.com
                   </a>
                 </div>
                 
                 <div>
                   <h3 className="font-semibold">Location</h3>
-                  <p>New York, United States</p>
+                  <p>Freiberg, Germany</p>
                 </div>
               </div>
             </CardContent>
